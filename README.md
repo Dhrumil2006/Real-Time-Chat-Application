@@ -52,4 +52,3 @@ Start frontend:
 cd ../client
 npm run dev
 
-## 📁 Project Structure
